@@ -8,11 +8,11 @@ Both players start with the same initial number (50 points). In each draw, both 
 
 
 ## Let's Play!
-In order to run the game:
+In order to run the game:\
 1- Download the project, and open the project's folder in the CMD.\
 2- Enter the folloing command:\
 ./tennis.sh
 
-### example:
+### Example:\
 ![image](https://user-images.githubusercontent.com/92527489/192114654-5e7faf89-a56b-452d-8545-44ce97d1e24d.png)
 
