@@ -1,4 +1,4 @@
-# Tennis (paper game)
+# Tennis (Paper game)
 
 Tennis is an strategic pencil and paper game for two players. The game field consists of 4 fields and a centre line. These are called (-2,-1,0,1,2), with negative numbers belonging to player 1, positive to player 2. At start, the ball is at the centre line (0).
 
@@ -13,6 +13,6 @@ In order to run the game:\
 2- Enter the folloing command:\
 ./tennis.sh
 
-### Example:\
+### Example:
 ![image](https://user-images.githubusercontent.com/92527489/192114654-5e7faf89-a56b-452d-8545-44ce97d1e24d.png)
 
