@@ -1,5 +1,4 @@
 #!/bin/bash
-#Shoval Weinstock 209540731
 
 player1_score=50
 player1_last_move=0
