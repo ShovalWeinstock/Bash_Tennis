@@ -1,5 +1,7 @@
 # Tennis (Paper Game)
 
+(Ex1 of the course "Operating Systems")
+
 Tennis is an strategic pencil and paper game for two players. The game field consists of 4 fields and a centre line. These are called (-2,-1,0,1,2), with negative numbers belonging to player 1, positive to player 2. At start, the ball is at the centre line (0).
 
 <img width="804" alt="tennis" src="https://user-images.githubusercontent.com/92527489/192114640-70fd1c7c-2991-4e63-8309-26e45f73c2f5.png">
